@@ -12,6 +12,11 @@ color:
     - '#333333'
 github: true
 layout_spectrum: 0.17468530707992613
+author:
+  name: Then Yao Bin
+  email: alvin.then@taessina.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7579db15-3f9c-4a27-ba1a-78a2ee0a9f27.svg
 name: TSN Blog
 navigation:
   - name: HOME
