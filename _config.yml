@@ -1,0 +1,23 @@
+typography_spectrum: 0.5913021632004529
+color:
+  brandStrength: 0.06688173720613122
+  lightness: 0.9959703364875168
+  saturation: 0.11266762809827924
+  rhythmicContrast: 0.4551870012655854
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+github: true
+layout_spectrum: 0.17468530707992613
+name: TSN Blog
+navigation:
+  - name: HOME
+    url: 'http://www.taessina.com'
+    type: external
+title: My Tech Diary
+content: []
+description: brought to you by ythen
+purpose: []
