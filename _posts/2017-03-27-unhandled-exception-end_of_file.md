@@ -1,0 +1,32 @@
+---
+inFeed: true
+description: '> flow'
+dateModified: '2017-09-15T11:24:06.327Z'
+datePublished: '2017-09-15T11:24:07.606Z'
+title: 'Unhandled exception: End_of_file'
+author: []
+publisher: {}
+via: {}
+sourcePath: _posts/2017-03-27-unhandled-exception-end_of_file.md
+starred: false
+datePublishedOriginal: '2017-03-27T16:33:00.501Z'
+_type: Blurb
+
+---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e80df553-f867-4f15-88ca-d2665b4cc84e.jpg)
+
+# Unhandled exception: End\_of\_file
+
+\> flow
+
+**Unhandled exception: End\_of\_file**
+
+Oh no.....
+
+**Remove the blank lines** at end of .flowconfig file
+
+Oh yes ~
+
+\> flow
+
+Launching Flow server for...
