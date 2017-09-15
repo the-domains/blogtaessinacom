@@ -25,31 +25,7 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4ea68b5-26da-4d61-be5d-7ddadc031288.png
 title: Tsnx | Taes'Life
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47db5219-e270-4169-adcf-2ae9360f8a8a.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/47db5219-e270-4169-adcf-2ae9360f8a8a.png
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: eat . basketball . code
 purpose:
   - type: contact
