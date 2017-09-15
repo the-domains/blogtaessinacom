@@ -1,17 +1,17 @@
-typography_spectrum: 0.5913021632004529
+layout_spectrum: 0.3542824600592698
+typography_spectrum: 0.5936616463647546
 color:
-  brandStrength: 0.06688173720613122
-  lightness: 0.9959703364875168
-  saturation: 0.11266762809827924
-  rhythmicContrast: 0.4551870012655854
+  brandStrength: 0.22958878789696438
+  lightness: 0.9958847508568427
+  saturation: 0.37415017749966667
+  rhythmicContrast: 0.050712945257396544
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 github: true
-layout_spectrum: 0.17468530707992613
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f635751-a8a1-402d-865f-3e05d8b308d5.png
 name: blog
