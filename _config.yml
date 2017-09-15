@@ -59,6 +59,8 @@ purpose:
     url: 'mailto:ken.low@taessina.com'
     label: Request Quotation
 author:
-  name: tsnx
+  name: written and maintained by tsnx
   email: taessina@gmail.com
   url: 'http://www.taessina.com'
+analytics:
+  google: UA-85675342-2
