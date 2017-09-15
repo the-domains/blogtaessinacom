@@ -1,8 +1,8 @@
 ---
-inFeed: false
+inFeed: true
 description: '> flow'
-dateModified: '2017-09-15T12:10:36.107Z'
-datePublished: '2017-09-15T12:10:37.416Z'
+dateModified: '2017-09-15T12:11:18.679Z'
+datePublished: '2017-09-15T12:11:19.995Z'
 title: 'Unhandled exception: End_of_file'
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-27T16:33:00.501Z'
 url: unhandled-exception-end_of_file/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Unhandled exception: End\_of\_file
