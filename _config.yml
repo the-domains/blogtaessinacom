@@ -10,12 +10,20 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
+github: true
 layout_spectrum: 0.17468530707992613
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f635751-a8a1-402d-865f-3e05d8b308d5.png
 name: blog
 navigation:
   - name: HOME
     url: 'http://www.taessina.com'
     type: external
+  - name: OUR STORY
+    id: 6d1c019c-ce80-4859-9860-0ec505d62856
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4ea68b5-26da-4d61-be5d-7ddadc031288.png
 title: Tsnx | Taes'Life
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -26,19 +34,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/47db5219-e270-4169-adcf-2ae9360f8a8a.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -50,8 +58,3 @@ purpose:
   - type: contact
     url: 'mailto:ken.low@taessina.com'
     label: Request Quotation
-github: true
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f635751-a8a1-402d-865f-3e05d8b308d5.png
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4ea68b5-26da-4d61-be5d-7ddadc031288.png
