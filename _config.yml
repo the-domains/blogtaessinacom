@@ -17,7 +17,32 @@ navigation:
     url: 'http://www.taessina.com'
     type: external
 title: Tsnx | Taes'Life
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fe75ea4-018d-4bac-b64b-57ae735f604d.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fe75ea4-018d-4bac-b64b-57ae735f604d.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: eat . basketball . code
 purpose:
   - type: contact
