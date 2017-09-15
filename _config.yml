@@ -35,7 +35,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -53,6 +52,6 @@ purpose:
     label: Request Quotation
 github: true
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a7f9c15-a32a-463f-8c34-8e7c26a5f469.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7697613-12c9-41a7-a87f-94972fee6b3a.png
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4ea68b5-26da-4d61-be5d-7ddadc031288.png
