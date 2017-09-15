@@ -35,7 +35,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -52,7 +51,6 @@ purpose:
     url: 'mailto:ken.low@taessina.com'
     label: Request Quotation
 github: true
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2906be5a-511c-4f60-8707-b1d8efdb04ec.png
+logo: null
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4ea68b5-26da-4d61-be5d-7ddadc031288.png
