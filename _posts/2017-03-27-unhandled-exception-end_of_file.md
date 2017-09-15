@@ -1,20 +1,20 @@
 ---
 inFeed: true
 description: '> flow'
-dateModified: '2017-09-15T11:24:06.327Z'
-datePublished: '2017-09-15T11:24:07.606Z'
+dateModified: '2017-09-15T12:07:06.213Z'
+datePublished: '2017-09-15T12:07:07.140Z'
 title: 'Unhandled exception: End_of_file'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-03-27-unhandled-exception-end_of_file.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-27T16:33:00.501Z'
-_type: Blurb
+url: unhandled-exception-end_of_file/index.html
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e80df553-f867-4f15-88ca-d2665b4cc84e.jpg)
-
 # Unhandled exception: End\_of\_file
 
 \> flow
@@ -30,3 +30,4 @@ Oh yes ~
 \> flow
 
 Launching Flow server for...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9721198a-4af1-4770-bf82-6bc08f98116d.jpg)
