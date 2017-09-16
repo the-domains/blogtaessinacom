@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: We do web business. We build mobile apps. We write beautiful code.
-dateModified: '2017-09-16T19:44:30.150Z'
-datePublished: '2017-09-16T19:44:30.920Z'
+dateModified: '2017-09-16T19:47:37.349Z'
+datePublished: '2017-09-16T19:47:38.185Z'
 title: Being taessina
 author: []
 publisher: {}
@@ -52,4 +52,4 @@ Under such working culture, taessina is able to maintain its quality as well as 
 
 So,
 
-<button data-role="cta" style="">Hire Us</button>
+<button data-role="cta" style="">Hire Us To Solve Your Headache</button>
