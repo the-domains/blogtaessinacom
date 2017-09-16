@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: We do web business. We build mobile apps. We write beautiful code.
-dateModified: '2017-09-16T19:43:09.830Z'
-datePublished: '2017-09-16T19:43:11.057Z'
+dateModified: '2017-09-16T19:44:30.150Z'
+datePublished: '2017-09-16T19:44:30.920Z'
 title: Being taessina
 author: []
 publisher: {}
@@ -49,3 +49,7 @@ Wait, living room?
 Yeah, because our office is a SOHO _(a L-OHO to be exact)_. We can do anything we want in there and no one is going to throw you a "this-is-inappropriate" eyesight.
 
 Under such working culture, taessina is able to maintain its quality as well as creativity in developing software products.
+
+So,
+
+<button data-role="cta" style="">Hire Us</button>
