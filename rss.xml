@@ -4,9 +4,9 @@
         <description><![CDATA[Taes'Life @ Tsn]]></description>
         <link>http://blog.taessina.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Sep 2017 19:57:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2017 20:34:42 GMT</lastBuildDate>
         <atom:link href="http://blog.taessina.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 Sep 2017 19:57:31 GMT</pubDate>
+        <pubDate>Sat, 16 Sep 2017 20:34:41 GMT</pubDate>
         <item>
             <title><![CDATA[Journey with RoR #1 - Data Query Optimisation]]></title>
             <description><![CDATA[<h1>Journey with RoR #1 - Data Query Optimisation</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1ae4b14-672e-4211-9ff6-d8064716b7d4.svg">,<p>Ruby on Rails has provided a very convenient method to do interactions with databases. Relationships between Models can be easy established via simple setup,</p>,<ol><li> adding references to the child</li></ol>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40d5e167-1242-49f2-b948-3ec91c890225.png" title="In the view above, the loan evaluations had a has_one relation with report. " alt="evaluation has_one report">]]></description>
@@ -23,7 +23,7 @@
         </item>
         <item>
             <title><![CDATA[Why Taessina Is Needed?]]></title>
-            <description><![CDATA[<h1>Why Taessina Is Needed?</h1>,<p>Taessina is a team, we are do all types of software development; we are solution provider.</p>,<p>We are <em>(were)</em> engineers. We study your problem, understand the core problem, and solve it from the root.</p>]]></description>
+            <description><![CDATA[<h1>Why Taessina Is Needed?</h1>,<p>Taessina is a team, we do all types of software development.</p>,<p>We are <em>(were)</em> engineers. We study your need, understand the core problem, and solve it from the root.</p>,<p>We are coders. We write beautiful codes which are ready to integrate with your existing system.</p>,<p>We are designers. We craft splendid design and focus on user experience in our software products.</p>,<h3>We are solution providers</h3>,<p>We are well-versed in designing &amp; developing pragmatic system architecture to modernise your old-fashioned work flow.</p>,<p>We are also experts in creating online platform to replace the pile of paperworks which slowly eat up your cabinet space.</p>,<p>We help you to save company operational cost.</p>,<p>From a one-page-website to a full-blown-system, we are ready for any outsource or insource job.</p>,<p>Talk to us today. We would love to hear from you.</p>]]></description>
             <link>http://blog.taessina.com/our-story/index.html</link>
             <guid isPermaLink="false">6d1c019c-ce80-4859-9860-0ec505d62856</guid>
             <pubDate>Fri, 15 Sep 2017 10:04:46 GMT</pubDate>
