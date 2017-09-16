@@ -4,9 +4,9 @@
         <description><![CDATA[Taes'Life @ Tsn]]></description>
         <link>http://blog.taessina.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Sep 2017 19:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2017 19:57:32 GMT</lastBuildDate>
         <atom:link href="http://blog.taessina.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 Sep 2017 19:49:11 GMT</pubDate>
+        <pubDate>Sat, 16 Sep 2017 19:57:31 GMT</pubDate>
         <item>
             <title><![CDATA[Journey with RoR #1 - Data Query Optimisation]]></title>
             <description><![CDATA[<h1>Journey with RoR #1 - Data Query Optimisation</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1ae4b14-672e-4211-9ff6-d8064716b7d4.svg">,<p>Ruby on Rails has provided a very convenient method to do interactions with databases. Relationships between Models can be easy established via simple setup,</p>,<ol><li> adding references to the child</li></ol>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40d5e167-1242-49f2-b948-3ec91c890225.png" title="In the view above, the loan evaluations had a has_one relation with report. " alt="evaluation has_one report">]]></description>
@@ -22,8 +22,8 @@
             <pubDate>Fri, 15 Sep 2017 12:55:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>OUR STORY</p>,<p>This is our story</p>]]></description>
+            <title><![CDATA[Why Taessina Is Needed?]]></title>
+            <description><![CDATA[<h1>Why Taessina Is Needed?</h1>,<p>Taessina is a team, we are do all types of software development; we are solution provider.</p>,<p>We are <em>(were)</em> engineers. We study your problem, understand the core problem, and solve it from the root.</p>]]></description>
             <link>http://blog.taessina.com/our-story/index.html</link>
             <guid isPermaLink="false">6d1c019c-ce80-4859-9860-0ec505d62856</guid>
             <pubDate>Fri, 15 Sep 2017 10:04:46 GMT</pubDate>
