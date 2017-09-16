@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: We do web business. We build mobile apps. We write beautiful code.
-dateModified: '2017-09-16T19:47:37.349Z'
-datePublished: '2017-09-16T19:47:38.185Z'
+dateModified: '2017-09-16T19:48:06.976Z'
+datePublished: '2017-09-16T19:48:08.915Z'
 title: Being taessina
 author: []
 publisher: {}
