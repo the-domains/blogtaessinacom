@@ -4,12 +4,12 @@
         <description><![CDATA[Taes'Life @ Tsn]]></description>
         <link>http://blog.taessina.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Sep 2017 20:34:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2017 10:09:30 GMT</lastBuildDate>
         <atom:link href="http://blog.taessina.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 Sep 2017 20:34:41 GMT</pubDate>
+        <pubDate>Sun, 17 Sep 2017 10:09:26 GMT</pubDate>
         <item>
             <title><![CDATA[Journey with RoR #1 - Data Query Optimisation]]></title>
-            <description><![CDATA[<h1>Journey with RoR #1 - Data Query Optimisation</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1ae4b14-672e-4211-9ff6-d8064716b7d4.svg">,<p>Ruby on Rails has provided a very convenient method to do interactions with databases. Relationships between Models can be easy established via simple setup,</p>,<ol><li> adding references to the child</li></ol>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40d5e167-1242-49f2-b948-3ec91c890225.png" title="In the view above, the loan evaluations had a has_one relation with report. " alt="evaluation has_one report">]]></description>
+            <description><![CDATA[<h1>Journey with RoR #1 - Data Query Optimisation</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1ae4b14-672e-4211-9ff6-d8064716b7d4.svg">,<p>Ruby on Rails has provided a very convenient method to do interactions with databases. Relationships between Models can be easy established via simple setup,</p>,<ol><li>adding references to the child</li></ol>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40d5e167-1242-49f2-b948-3ec91c890225.png" title="In the view above, the loan evaluations had a has_one relation with report. " alt="evaluation has_one report">]]></description>
             <link>http://blog.taessina.com/journey-with-ror-1-data-query-optimisation/index.html</link>
             <guid isPermaLink="false">ac08a1ef-ff2a-471c-b5dd-e576ea6d2d08</guid>
             <pubDate>Fri, 23 Dec 2016 18:39:14 GMT</pubDate>
