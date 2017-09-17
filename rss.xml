@@ -2,43 +2,43 @@
     <channel>
         <title><![CDATA[Taes'Life @ Tsn]]></title>
         <description><![CDATA[Taes'Life @ Tsn]]></description>
-        <link>http://blog.taessina.com/</link>
+        <link>http://www.taessina.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Sep 2017 10:11:41 GMT</lastBuildDate>
-        <atom:link href="http://blog.taessina.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 Sep 2017 10:11:40 GMT</pubDate>
+        <lastBuildDate>Sun, 17 Sep 2017 10:18:23 GMT</lastBuildDate>
+        <atom:link href="http://www.taessina.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 17 Sep 2017 10:18:23 GMT</pubDate>
         <item>
             <title><![CDATA[Journey with RoR #1 - Data Query Optimisation]]></title>
-            <description><![CDATA[<h1>Journey with RoR #1 - Data Query Optimisation</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1ae4b14-672e-4211-9ff6-d8064716b7d4.svg">,<p>Ruby on Rails has provided a very convenient method to do interactions with databases. Relationships between Models can be easy established via simple setup,</p>,<ol><li>adding references to the child</li></ol>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40d5e167-1242-49f2-b948-3ec91c890225.png" title="In the view above, the loan evaluations had a has_one relation with report. " alt="evaluation has_one report">]]></description>
-            <link>http://blog.taessina.com/journey-with-ror-1-data-query-optimisation/index.html</link>
+            <description><![CDATA[<h1>Journey with RoR #1 - Data Query Optimisation</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fbfbcd8-a0a8-4fc4-861e-e2498422fa33.png">,<p>Ruby on Rails has provided a very convenient method to do interactions with databases. Relationships between Models can be easy established via simple setup,</p>,<ol><li>adding references to the child</li></ol>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40d5e167-1242-49f2-b948-3ec91c890225.png" title="In the view above, the loan evaluations had a has_one relation with report. " alt="evaluation has_one report">]]></description>
+            <link>http://www.taessina.com/journey-with-ror-1-data-query-optimisation/index.html</link>
             <guid isPermaLink="false">ac08a1ef-ff2a-471c-b5dd-e576ea6d2d08</guid>
             <pubDate>Fri, 23 Dec 2016 18:39:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Being taessina]]></title>
             <description><![CDATA[<h1>Being taessina</h1>,<p><em>We do web business. We build mobile apps. We write beautiful code.</em></p>]]></description>
-            <link>http://blog.taessina.com/being-taessina/index.html</link>
+            <link>http://www.taessina.com/being-taessina/index.html</link>
             <guid isPermaLink="false">0be22171-fe61-4b09-8389-683857179a9e</guid>
             <pubDate>Fri, 15 Sep 2017 12:55:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Taessina Is Needed?]]></title>
             <description><![CDATA[<h1>Why Taessina Is Needed?</h1>,<p>Taessina is a team, we do all types of software development.</p>,<p>We are <em>(were)</em> engineers. We study your need, understand the core problem, and solve it from the root.</p>,<p>We are coders. We write beautiful codes which are ready to integrate with your existing system.</p>,<p>We are designers. We craft splendid design and focus on user experience in our software products.</p>,<h3>We are solution providers</h3>,<p>We are well-versed in designing &amp; developing pragmatic system architecture to modernise your old-fashioned work flow.</p>,<p>We are also experts in creating online platform to replace the pile of paperworks which slowly eat up your cabinet space.</p>,<p>We help you to save company operational cost.</p>,<p>From a one-page-website to a full-blown-system, we are ready for any outsource or insource job.</p>,<p>Talk to us today. We would love to hear from you.</p>]]></description>
-            <link>http://blog.taessina.com/our-story/index.html</link>
+            <link>http://www.taessina.com/our-story/index.html</link>
             <guid isPermaLink="false">6d1c019c-ce80-4859-9860-0ec505d62856</guid>
             <pubDate>Fri, 15 Sep 2017 10:04:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Journey with RoR #2 - Setting up for automated testing]]></title>
             <description><![CDATA[<h1>Journey with RoR #2 - Setting up for automated testing</h1>,<p>In this article, we’re going to add minitest and guard for <em>more fun</em> when testing in Ruby on Rails. This is a summary of Chapter 3.6 from <a href="https://www.railstutorial.org/" title="The Ruby On Rails Tutorial">https://www.railstutorial.org/</a></p>]]></description>
-            <link>http://blog.taessina.com/journey-with-ror-2-setting-up-for-automated-testing/index.html</link>
+            <link>http://www.taessina.com/journey-with-ror-2-setting-up-for-automated-testing/index.html</link>
             <guid isPermaLink="false">02f64136-b459-4a3a-a152-6e765e5d626e</guid>
             <pubDate>Fri, 06 Jan 2017 14:52:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Crazy and Sudden Hackathon]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/522abd53-dce1-4216-8250-96556d210f40.jpg" title="Crazy and Sudden Hackathon" alt="Website, user app and API in one night? Four overnight aliens born&mldr;..">]]></description>
-            <link>http://blog.taessina.com/hello-world/index.html</link>
+            <link>http://www.taessina.com/hello-world/index.html</link>
             <guid isPermaLink="false">741157f2-820b-450d-9a74-39e989753748</guid>
             <pubDate>Wed, 23 Nov 2016 13:09:02 GMT</pubDate>
         </item>
