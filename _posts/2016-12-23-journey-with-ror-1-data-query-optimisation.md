@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-17T10:09:25.348Z'
+datePublished: '2017-09-17T10:11:39.518Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-17T10:09:23.653Z'
+dateModified: '2017-09-17T10:11:37.892Z'
 title: 'Journey with RoR #1 - Data Query Optimisation'
 publisher: {}
 description: >-
