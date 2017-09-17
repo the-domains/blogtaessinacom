@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: We do web business. We build mobile apps. We write beautiful code.
-dateModified: '2017-09-16T19:49:09.913Z'
-datePublished: '2017-09-16T19:49:10.966Z'
+dateModified: '2017-09-17T10:31:36.155Z'
+datePublished: '2017-09-17T10:31:38.963Z'
 title: Being taessina
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-15T12:55:02.289Z'
 url: being-taessina/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Being taessina
