@@ -4,8 +4,8 @@ description: >-
   In this article, we’re going to add minitest and guard for more fun when
   testing in Ruby on Rails. This is a summary of Chapter 3.6 from
   https://www.railstutorial.org/
-dateModified: '2017-09-17T10:32:10.077Z'
-datePublished: '2017-09-17T10:32:11.103Z'
+dateModified: '2017-09-17T10:32:11.901Z'
+datePublished: '2017-09-17T10:32:12.628Z'
 title: 'Journey with RoR #2 - Setting up for automated testing'
 author: []
 publisher: {}
