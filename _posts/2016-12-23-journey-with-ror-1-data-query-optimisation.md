@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-17T10:18:22.393Z'
+datePublished: '2017-09-17T10:18:28.648Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-17T10:18:20.867Z'
+dateModified: '2017-09-17T10:18:27.577Z'
 title: 'Journey with RoR #1 - Data Query Optimisation'
 publisher: {}
 description: >-
@@ -19,7 +19,7 @@ _type: Article
 
 ---
 # Journey with RoR \#1 - Data Query Optimisation
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fbfbcd8-a0a8-4fc4-861e-e2498422fa33.png)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1291aad9a9147a87a3d9303acdd455b2/croprotate.png?cropheight=133&cropwidth=376&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3fbfbcd8-a0a8-4fc4-861e-e2498422fa33.png&x=2&y=0)
 
 Ruby on Rails has provided a very convenient method to do interactions with databases. Relationships between Models can be easy established via simple setup,
 
