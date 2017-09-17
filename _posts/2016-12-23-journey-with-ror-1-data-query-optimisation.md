@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-17T10:18:28.648Z'
-inFeed: true
+datePublished: '2017-09-17T10:32:00.806Z'
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-17T10:18:27.577Z'
+dateModified: '2017-09-17T10:31:59.637Z'
 title: 'Journey with RoR #1 - Data Query Optimisation'
 publisher: {}
 description: >-
@@ -15,7 +15,7 @@ sourcePath: _posts/2016-12-23-journey-with-ror-1-data-query-optimisation.md
 starred: false
 datePublishedOriginal: '2016-12-23T18:39:14.443Z'
 url: journey-with-ror-1-data-query-optimisation/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Journey with RoR \#1 - Data Query Optimisation
