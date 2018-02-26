@@ -20,7 +20,7 @@ author:
   url: 'http://www.taessina.com'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f635751-a8a1-402d-865f-3e05d8b308d5.png
-name: taessina
+name: Code with Taessina
 navigation:
   - name: Why Need Taessina
     id: 6d1c019c-ce80-4859-9860-0ec505d62856
@@ -30,7 +30,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4ea68b5-26da-4d61-be5d-7ddadc031288.png
-title: '"We code it all!" says Tsn'
+title: '"We code''em all!" says Tsnx'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
