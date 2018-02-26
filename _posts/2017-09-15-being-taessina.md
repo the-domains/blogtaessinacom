@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: We do web business. We build mobile apps. We write beautiful code.
-dateModified: '2017-09-17T10:31:36.155Z'
-datePublished: '2017-09-17T10:31:38.963Z'
+dateModified: '2018-02-26T18:08:28.165Z'
+datePublished: '2018-02-26T18:08:29.630Z'
 title: Being taessina
 author: []
 publisher: {}
@@ -46,7 +46,7 @@ We believe creativity is _**indirectly proportional**_ to the stress level _(eng
 
 Wait, living room?
 
-Yeah, because our office is a SOHO _(a L-OHO to be exact)_. We can do anything we want in there and no one is going to throw you a "this-is-inappropriate" eyesight.
+Yeah, because our office is a SOHO _(a L-OHO to be exact)_. We can do anything we want in there and no one is going to throw you a "this-ain't-appropriate" eyesight.
 
 Under such working culture, taessina is able to maintain its quality as well as creativity in developing software products.
 
